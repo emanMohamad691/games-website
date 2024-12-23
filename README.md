@@ -28,6 +28,7 @@ This project showcases a collection of games categorized by different genres. Us
 - Click on a game to view its detailed information.
 
 ## Screenshots
-*Add screenshots of your project here.*
+![screencapture-emanmohamad691-github-io-games-website-2024-12-23-09_09_44](https://github.com/user-attachments/assets/77751d71-37b0-4148-82d1-e7d9863b7ff6)
+
 
 
